@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru/
+browser: chrome
+sleep_time: 1
+sleep_time_for_check: 3
+login: 'zxcvb88'
+password: '17476022e4'
+name: 'Marina'
+email: 'qwerty@ya.ru'
+content: 'Hello, world!'

@@ -1,0 +1,12 @@
+18:51:43 INFO ====== WebDriver manager ======
+18:51:45 INFO Get LATEST chromedriver version for google-chrome
+18:51:46 INFO Get LATEST chromedriver version for google-chrome
+18:51:46 INFO Driver [C:\Users\Евгений\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+18:51:50 INFO Test3 starting
+18:51:52 INFO Senf zxcvb88 of element //*[@id="login"]/div[1]/label/input
+18:51:52 INFO Senf 17476022e4 of element //*[@id="login"]/div[2]/label/input
+18:51:52 INFO Click login button
+18:51:54 INFO Senf Marina of element //*[@id="contact"]/div[1]/label/input
+18:51:55 INFO Senf qwerty@ya.ru of element //*[@id="contact"]/div[2]/label/input
+18:51:55 INFO Senf Hello, world! of element //*[@id="contact"]/div[3]/label/span/textarea
+18:52:01 INFO PASSED
